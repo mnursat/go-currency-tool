@@ -1,2 +1,7 @@
 go-currency-tool
 **/.DS_Store
+env
+.env
+charts
+*.exe
+output
